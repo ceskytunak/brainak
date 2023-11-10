@@ -1,12 +1,24 @@
 # Recipe for BrainZap! Light
 
-BrainZap! Light
+Based on feedback from users, some women with bodyweight under 60kg reported that BrainZap! Evo is too strong for them. This is likely because the standard dosage of BrainZap! Evo is designed for people with a higher body weight.
+
+BrainZap! Light is a version of BrainZap! Evo that is specially designed for people with lower body weight or for people who find BrainZap! Evo to be too strong. It is essentially the same product, but the volume in the capsule has been substituted with beetroot. This makes BrainZap! Light a less concentrated version of BrainZap! Evo, making it more suitable for people who are more sensitive to the effects of the product.
+
+Here is a more detailed explanation of the difference between BrainZap! Evo and BrainZap! Light:
+
+- **BrainZap! Evo** is the original product in the BrainZap! line. It is a full-strength product that is designed to provide the maximum benefits of the BrainZap! formula.
+- **BrainZap! Light** is a less concentrated version of BrainZap! Evo. It is designed for people who have lower body weight or who find BrainZap! Evo to be too strong.
+
+*Both BrainZap! Evo* and *BrainZap! Light* contain the same active ingredients, but *BrainZap! Light* contains a smaller amount of these ingredients. This makes BrainZap! Light a gentler option for people who are more sensitive to the effects of the product.
+
+The beetroot in *BrainZap! Light* is there to make up the volume in the capsule. Beetroot is a natural ingredient that is safe for most people to consume. It has a number of potential health benefits, including improved blood flow, reduced inflammation, and increased energy levels.
+
+Overall, BrainZap! Light is a good option for people who are looking for a less concentrated version of BrainZap! Evo. It is also a good option for people who have lower body weight or who find BrainZap! Evo to be too strong.
 
 ## Recipe development status
 
 Recipe is still under development.
 - add ingredient count
-- add description
 - add DDD counts
 - add ingredient source and detailed description
 - add safety instructions label 

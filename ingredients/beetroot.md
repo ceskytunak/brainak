@@ -22,7 +22,7 @@ If you are considering taking beetroot supplements, be sure to choose a high-qua
 ## Compounds
 
  Chemical compound | Amount (in mg) |
-|---|---|---|
+|---|---|
 | Carbohydrates   | 600-700   |
 | Fiber           | 100-150   |
 | Protein         | 50-100    |

@@ -2,6 +2,7 @@
 
 ## TODO
 - verify information in Compounds section
+- add DDD calculations
 
 ## Compounds
 
